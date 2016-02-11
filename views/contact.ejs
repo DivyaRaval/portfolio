@@ -1,0 +1,30 @@
+<% include partials/header.ejs %>
+
+    <!-- Main Content -->
+    <main class="container">
+        <h1>Contact Me Here </h1>
+      
+        <form>
+             <div class="form-group">
+                <label for="exampleInputEmail1">Name</label>
+                <input type="text" class="form-control" id="name" placeholder="Name">
+            </div>
+            <div class="form-group">
+                <label for="exampleInputEmail1">Email address</label>
+                <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+            </div>
+            
+            <div class="form-group">
+                <label for="exampleInputPassword1">Message</label>
+                <textarea class="form-control" id="Message" placeholder="Message"></textarea>
+            </div>
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox"> Check here
+                </label>
+            </div>
+            <button type="submit" class="btn btn-default">Submit</button>
+        </form>
+      
+    </main>
+    <% include partials/footer.ejs %>
