@@ -3,3 +3,13 @@
  body{
      background-color: #81BEF7;
  }
+ 
+ .jumbotron{
+    position: absolute;
+    width: 100%;
+    top: 20%;
+    padding: 10px 10px 10px 10px;
+    color: steelblue;
+    font-family: comic sans ms;
+    
+}
