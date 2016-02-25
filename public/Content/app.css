@@ -1,11 +1,5 @@
-/* custom css file */
-
- body{
-<<<<<<< HEAD
-     background-color: bisque;
-=======
+body{
      background-color: coral;
->>>>>>> 0638e592309f46f69f0cce712c0e826865e33c9e
  }
  
  .jumbotron{
@@ -13,11 +7,7 @@
     width: 100%;
     top: 20%;
     padding: 10px 10px 10px 10px;
-<<<<<<< HEAD
-    color: beige;
-=======
     color: ivory;
->>>>>>> 0638e592309f46f69f0cce712c0e826865e33c9e
     font-family: comic sans ms;
     
 }
